@@ -1,6 +1,6 @@
 # Converte da Fahrenheit a Celsius e Kelvin
 #
-# versione 0.2 - Pietro Marchetta 2022
+# versione 0.2 - Pietro IZ2RPN 2022
 #
 # use: python3 convert.py 12.4 50.9
 # converte più di un valore alla volta.
